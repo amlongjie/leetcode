@@ -1,4 +1,4 @@
-id  | title | status
+id  | title | difficulty |status
 -----  | ----- | ----- | -----
 1|Two Sum|Easy|:x:
 2|Add Two Numbers|Medium|:x:

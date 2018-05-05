@@ -18,7 +18,7 @@ tmp_data.sort(key=lambda k: k['id'])
 
 f = open('./README.md', 'w')
 
-f.write("id  | title | status\n")
+f.write("id  | title | difficulty |status\n")
 f.write("-----  | ----- | ----- | -----\n")
 for tmp in tmp_data:
     f.write("%s|%s|%s|%s\n" % (tmp['id'], tmp['title'],
