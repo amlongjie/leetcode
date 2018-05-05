@@ -20,9 +20,9 @@ f = open('./README.md', 'w')
 
 f.write("# LeetCode 刷题记录    ")
 
-f.write("http://progressed.io/bar/%s?title=completed\n" % int(data['num_solved'] / data['num_total']))
+f.write("[![](http://progressed.io/bar/%s?title=completed)]\n" % int(data['num_solved'] / data['num_total']))
 
-f.write("AC=%s Total=%s\n" % (data['num_solved'], data['num_total']))
+f.write("AC=%s Total=%s \n" % (data['num_solved'], data['num_total']))
 
 f.write("id  | title | difficulty |status\n")
 f.write("-----  | ----- | ----- | -----\n")

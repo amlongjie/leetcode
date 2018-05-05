@@ -1,5 +1,5 @@
-# LeetCode 刷题记录    http://progressed.io/bar/0?title=completed
-AC=2 Total=636
+# LeetCode 刷题记录    [![](http://progressed.io/bar/0?title=completed)]
+AC=2 Total=636 
 id  | title | difficulty |status
 -----  | ----- | ----- | -----
 1|Two Sum|Easy|:x:
