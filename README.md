@@ -1,3 +1,4 @@
+# LeetCode 刷题记录    http://progressed.io/bar/0?title=completed
 id  | title | difficulty |status
 -----  | ----- | ----- | -----
 1|Two Sum|Easy|:x:
