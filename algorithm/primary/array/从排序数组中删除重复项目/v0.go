@@ -1,9 +1,10 @@
 package main
 
 /**
-排序数组去重,遍历一遍
-时间复杂度:O(N)
-空间复杂度:O(1)
+排序数组去重
+	核心思路:前后对比,如果一致则跳过.不一致则覆盖,并计数
+	时间复杂度:O(N)
+	空间复杂度:O(1)
  */
 func removeDuplicates(nums []int) int {
 	res := 1

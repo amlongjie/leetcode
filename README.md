@@ -121,7 +121,7 @@ id  | title | status
 119|Pascal's Triangle II|:x:
 120|Triangle|:x:
 121|Best Time to Buy and Sell Stock|:x:
-122|Best Time to Buy and Sell Stock II|:x:
+122|Best Time to Buy and Sell Stock II|:white_check_mark:
 123|Best Time to Buy and Sell Stock III|:x:
 124|Binary Tree Maximum Path Sum|:x:
 125|Valid Palindrome|:x:
