@@ -1,5 +1,5 @@
 # LeetCode 刷题记录    ![](http://progressed.io/bar/0?title=completed)
-AC=2 Total=636 
+AC=6 Total=640 
 
 id  | title | difficulty |status
 -----  | ----- | ----- | -----
@@ -68,7 +68,7 @@ id  | title | difficulty |status
 63|Unique Paths II|Medium|:x:
 64|Minimum Path Sum|Medium|:x:
 65|Valid Number|Hard|:x:
-66|Plus One|Easy|:x:
+66|Plus One|Easy|:white_check_mark:
 67|Add Binary|Easy|:x:
 68|Text Justification|Hard|:x:
 69|Sqrt(x)|Easy|:x:
@@ -138,7 +138,7 @@ id  | title | difficulty |status
 133|Clone Graph|Medium|:x:
 134|Gas Station|Medium|:x:
 135|Candy|Hard|:x:
-136|Single Number|Easy|:x:
+136|Single Number|Easy|:white_check_mark:
 137|Single Number II|Medium|:x:
 138|Copy List with Random Pointer|Medium|:x:
 139|Word Break|Medium|:x:
@@ -183,7 +183,7 @@ id  | title | difficulty |status
 185|Department Top Three Salaries|Hard|:x:
 187|Repeated DNA Sequences|Medium|:x:
 188|Best Time to Buy and Sell Stock IV|Hard|:x:
-189|Rotate Array|Easy|:x:
+189|Rotate Array|Easy|:white_check_mark:
 190|Reverse Bits|Easy|:x:
 191|Number of 1 Bits|Easy|:x:
 192|Word Frequency|Medium|:x:
@@ -211,7 +211,7 @@ id  | title | difficulty |status
 214|Shortest Palindrome|Hard|:x:
 215|Kth Largest Element in an Array|Medium|:x:
 216|Combination Sum III|Medium|:x:
-217|Contains Duplicate|Easy|:x:
+217|Contains Duplicate|Easy|:white_check_mark:
 218|The Skyline Problem|Hard|:x:
 219|Contains Duplicate II|Easy|:x:
 220|Contains Duplicate III|Medium|:x:
@@ -639,3 +639,7 @@ id  | title | difficulty |status
 825|Friends Of Appropriate Ages|Medium|:x:
 826|Most Profit Assigning Work|Medium|:x:
 827|Making A Large Island|Hard|:x:
+828|Unique Letter String|Hard|:x:
+829|Consecutive Numbers Sum|Medium|:x:
+830|Positions of Large Groups|Easy|:x:
+831|Masking Personal Information|Medium|:x:
