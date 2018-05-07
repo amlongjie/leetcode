@@ -1,11 +1,11 @@
 {
-  "ac_easy": 6,
+  "ac_easy": 8,
   "ac_hard": 0,
   "ac_medium": 0,
   "category_slug": "all",
   "frequency_high": 0,
   "frequency_mid": 0,
-  "num_solved": 6,
+  "num_solved": 8,
   "num_total": 640,
   "stat_status_pairs": [
     {
@@ -25,8 +25,8 @@
         "question__title": "Masking Personal Information",
         "question__title_slug": "masking-personal-information",
         "question_id": 858,
-        "total_acs": 32,
-        "total_submitted": 132
+        "total_acs": 34,
+        "total_submitted": 136
       },
       "status": null
     },
@@ -47,8 +47,8 @@
         "question__title": "Positions of Large Groups",
         "question__title_slug": "positions-of-large-groups",
         "question_id": 857,
-        "total_acs": 83,
-        "total_submitted": 202
+        "total_acs": 93,
+        "total_submitted": 226
       },
       "status": null
     },
@@ -69,8 +69,8 @@
         "question__title": "Consecutive Numbers Sum",
         "question__title_slug": "consecutive-numbers-sum",
         "question_id": 856,
-        "total_acs": 26,
-        "total_submitted": 171
+        "total_acs": 30,
+        "total_submitted": 176
       },
       "status": null
     },
@@ -91,8 +91,8 @@
         "question__title": "Unique Letter String",
         "question__title_slug": "unique-letter-string",
         "question_id": 855,
-        "total_acs": 10,
-        "total_submitted": 47
+        "total_acs": 12,
+        "total_submitted": 53
       },
       "status": null
     },
@@ -113,8 +113,8 @@
         "question__title": "Making A Large Island",
         "question__title_slug": "making-a-large-island",
         "question_id": 854,
-        "total_acs": 2,
-        "total_submitted": 14
+        "total_acs": 3,
+        "total_submitted": 16
       },
       "status": null
     },
@@ -157,8 +157,8 @@
         "question__title": "Friends Of Appropriate Ages",
         "question__title_slug": "friends-of-appropriate-ages",
         "question_id": 852,
-        "total_acs": 0,
-        "total_submitted": 1
+        "total_acs": 1,
+        "total_submitted": 9
       },
       "status": null
     },
@@ -399,8 +399,8 @@
         "question__title": "Binary Tree Pruning",
         "question__title_slug": "binary-tree-pruning",
         "question_id": 832,
-        "total_acs": 75,
-        "total_submitted": 117
+        "total_acs": 76,
+        "total_submitted": 118
       },
       "status": null
     },
@@ -465,8 +465,8 @@
         "question__title": "Subdomain Visit Count",
         "question__title_slug": "subdomain-visit-count",
         "question_id": 829,
-        "total_acs": 210,
-        "total_submitted": 411
+        "total_acs": 212,
+        "total_submitted": 414
       },
       "status": null
     },
@@ -619,8 +619,8 @@
         "question__title": "Unique Morse Code Words",
         "question__title_slug": "unique-morse-code-words",
         "question_id": 822,
-        "total_acs": 663,
-        "total_submitted": 1065
+        "total_acs": 667,
+        "total_submitted": 1069
       },
       "status": null
     },
@@ -1147,8 +1147,8 @@
         "question__title": "K-th Symbol in Grammar",
         "question__title_slug": "k-th-symbol-in-grammar",
         "question_id": 795,
-        "total_acs": 57,
-        "total_submitted": 202
+        "total_acs": 58,
+        "total_submitted": 203
       },
       "status": null
     },
@@ -1257,8 +1257,8 @@
         "question__title": "Jewels and Stones",
         "question__title_slug": "jewels-and-stones",
         "question_id": 782,
-        "total_acs": 2068,
-        "total_submitted": 2719
+        "total_acs": 2075,
+        "total_submitted": 2727
       },
       "status": null
     },
@@ -1323,8 +1323,8 @@
         "question__title": "Max Chunks To Make Sorted II",
         "question__title_slug": "max-chunks-to-make-sorted-ii",
         "question_id": 779,
-        "total_acs": 11,
-        "total_submitted": 64
+        "total_acs": 12,
+        "total_submitted": 65
       },
       "status": null
     },
@@ -1367,8 +1367,8 @@
         "question__title": "Toeplitz Matrix",
         "question__title_slug": "toeplitz-matrix",
         "question_id": 777,
-        "total_acs": 475,
-        "total_submitted": 895
+        "total_acs": 486,
+        "total_submitted": 924
       },
       "status": null
     },
@@ -1500,7 +1500,7 @@
         "question__title_slug": "set-intersection-size-at-least-two",
         "question_id": 759,
         "total_acs": 7,
-        "total_submitted": 24
+        "total_submitted": 27
       },
       "status": null
     },
@@ -1631,8 +1631,8 @@
         "question__title": "Shortest Completing Word",
         "question__title_slug": "shortest-completing-word",
         "question_id": 749,
-        "total_acs": 9,
-        "total_submitted": 19
+        "total_acs": 11,
+        "total_submitted": 21
       },
       "status": null
     },
@@ -1653,8 +1653,8 @@
         "question__title": "Largest Number At Least Twice of Others",
         "question__title_slug": "largest-number-at-least-twice-of-others",
         "question_id": 748,
-        "total_acs": 259,
-        "total_submitted": 733
+        "total_acs": 260,
+        "total_submitted": 734
       },
       "status": null
     },
@@ -1675,8 +1675,8 @@
         "question__title": "Min Cost Climbing Stairs",
         "question__title_slug": "min-cost-climbing-stairs",
         "question_id": 747,
-        "total_acs": 508,
-        "total_submitted": 1397
+        "total_acs": 509,
+        "total_submitted": 1398
       },
       "status": null
     },
@@ -1829,8 +1829,8 @@
         "question__title": "Monotone Increasing Digits",
         "question__title_slug": "monotone-increasing-digits",
         "question_id": 738,
-        "total_acs": 16,
-        "total_submitted": 94
+        "total_acs": 18,
+        "total_submitted": 96
       },
       "status": null
     },
@@ -1873,8 +1873,8 @@
         "question__title": "Asteroid Collision",
         "question__title_slug": "asteroid-collision",
         "question_id": 735,
-        "total_acs": 17,
-        "total_submitted": 61
+        "total_acs": 20,
+        "total_submitted": 72
       },
       "status": null
     },
@@ -1896,7 +1896,7 @@
         "question__title_slug": "flood-fill",
         "question_id": 733,
         "total_acs": 102,
-        "total_submitted": 250
+        "total_submitted": 252
       },
       "status": null
     },
@@ -2005,8 +2005,8 @@
         "question__title": "Self Dividing Numbers",
         "question__title_slug": "self-dividing-numbers",
         "question_id": 728,
-        "total_acs": 808,
-        "total_submitted": 1303
+        "total_acs": 809,
+        "total_submitted": 1306
       },
       "status": null
     },
@@ -2138,7 +2138,7 @@
         "question__title_slug": "longest-word-in-dictionary",
         "question_id": 720,
         "total_acs": 74,
-        "total_submitted": 228
+        "total_submitted": 229
       },
       "status": null
     },
@@ -2203,8 +2203,8 @@
         "question__title": "1-bit and 2-bit Characters",
         "question__title_slug": "1-bit-and-2-bit-characters",
         "question_id": 717,
-        "total_acs": 339,
-        "total_submitted": 924
+        "total_acs": 340,
+        "total_submitted": 925
       },
       "status": null
     },
@@ -2423,8 +2423,8 @@
         "question__title": "Binary Number with Alternating Bits",
         "question__title_slug": "binary-number-with-alternating-bits",
         "question_id": 693,
-        "total_acs": 323,
-        "total_submitted": 580
+        "total_acs": 325,
+        "total_submitted": 582
       },
       "status": null
     },
@@ -2643,8 +2643,8 @@
         "question__title": "Baseball Game",
         "question__title_slug": "baseball-game",
         "question_id": 682,
-        "total_acs": 224,
-        "total_submitted": 474
+        "total_acs": 225,
+        "total_submitted": 475
       },
       "status": null
     },
@@ -2665,8 +2665,8 @@
         "question__title": "Valid Palindrome II",
         "question__title_slug": "valid-palindrome-ii",
         "question_id": 680,
-        "total_acs": 161,
-        "total_submitted": 739
+        "total_acs": 164,
+        "total_submitted": 743
       },
       "status": null
     },
@@ -2798,7 +2798,7 @@
         "question__title_slug": "longest-continuous-increasing-subsequence",
         "question_id": 674,
         "total_acs": 240,
-        "total_submitted": 737
+        "total_submitted": 747
       },
       "status": null
     },
@@ -2863,8 +2863,8 @@
         "question__title": "Second Minimum Node In a Binary Tree",
         "question__title_slug": "second-minimum-node-in-a-binary-tree",
         "question_id": 671,
-        "total_acs": 108,
-        "total_submitted": 263
+        "total_acs": 109,
+        "total_submitted": 264
       },
       "status": null
     },
@@ -2907,8 +2907,8 @@
         "question__title": "Trim a Binary Search Tree",
         "question__title_slug": "trim-a-binary-search-tree",
         "question_id": 669,
-        "total_acs": 115,
-        "total_submitted": 254
+        "total_acs": 116,
+        "total_submitted": 255
       },
       "status": null
     },
@@ -2973,8 +2973,8 @@
         "question__title": "Non-decreasing Array",
         "question__title_slug": "non-decreasing-array",
         "question_id": 665,
-        "total_acs": 221,
-        "total_submitted": 1311
+        "total_acs": 225,
+        "total_submitted": 1319
       },
       "status": null
     },
@@ -3039,8 +3039,8 @@
         "question__title": "Image Smoother",
         "question__title_slug": "image-smoother",
         "question_id": 661,
-        "total_acs": 148,
-        "total_submitted": 354
+        "total_acs": 150,
+        "total_submitted": 359
       },
       "status": null
     },
@@ -3105,8 +3105,8 @@
         "question__title": "Judge Route Circle",
         "question__title_slug": "judge-route-circle",
         "question_id": 657,
-        "total_acs": 1334,
-        "total_submitted": 2058
+        "total_acs": 1344,
+        "total_submitted": 2069
       },
       "status": null
     },
@@ -3127,8 +3127,8 @@
         "question__title": "Print Binary Tree",
         "question__title_slug": "print-binary-tree",
         "question_id": 655,
-        "total_acs": 33,
-        "total_submitted": 57
+        "total_acs": 35,
+        "total_submitted": 61
       },
       "status": null
     },
@@ -3303,8 +3303,8 @@
         "question__title": "Maximum Length of Pair Chain",
         "question__title_slug": "maximum-length-of-pair-chain",
         "question_id": 646,
-        "total_acs": 40,
-        "total_submitted": 86
+        "total_acs": 41,
+        "total_submitted": 93
       },
       "status": null
     },
@@ -3325,8 +3325,8 @@
         "question__title": "Set Mismatch",
         "question__title_slug": "set-mismatch",
         "question_id": 645,
-        "total_acs": 125,
-        "total_submitted": 449
+        "total_acs": 126,
+        "total_submitted": 450
       },
       "status": null
     },
@@ -3347,8 +3347,8 @@
         "question__title": "Maximum Average Subarray I",
         "question__title_slug": "maximum-average-subarray-i",
         "question_id": 643,
-        "total_acs": 211,
-        "total_submitted": 707
+        "total_acs": 212,
+        "total_submitted": 708
       },
       "status": null
     },
@@ -3435,8 +3435,8 @@
         "question__title": "Average of Levels in Binary Tree",
         "question__title_slug": "average-of-levels-in-binary-tree",
         "question_id": 637,
-        "total_acs": 264,
-        "total_submitted": 513
+        "total_acs": 269,
+        "total_submitted": 522
       },
       "status": null
     },
@@ -3479,8 +3479,8 @@
         "question__title": "Sum of Square Numbers",
         "question__title_slug": "sum-of-square-numbers",
         "question_id": 633,
-        "total_acs": 346,
-        "total_submitted": 1797
+        "total_acs": 350,
+        "total_submitted": 1813
       },
       "status": null
     },
@@ -3567,8 +3567,8 @@
         "question__title": "Maximum Product of Three Numbers",
         "question__title_slug": "maximum-product-of-three-numbers",
         "question_id": 628,
-        "total_acs": 323,
-        "total_submitted": 940
+        "total_acs": 325,
+        "total_submitted": 942
       },
       "status": null
     },
@@ -3589,8 +3589,8 @@
         "question__title": "Swap Salary",
         "question__title_slug": "swap-salary",
         "question_id": 627,
-        "total_acs": 762,
-        "total_submitted": 1399
+        "total_acs": 765,
+        "total_submitted": 1402
       },
       "status": null
     },
@@ -3611,8 +3611,8 @@
         "question__title": "Exchange Seats",
         "question__title_slug": "exchange-seats",
         "question_id": 626,
-        "total_acs": 281,
-        "total_submitted": 592
+        "total_acs": 282,
+        "total_submitted": 593
       },
       "status": null
     },
@@ -3633,8 +3633,8 @@
         "question__title": "Add One Row to Tree",
         "question__title_slug": "add-one-row-to-tree",
         "question_id": 623,
-        "total_acs": 41,
-        "total_submitted": 112
+        "total_acs": 42,
+        "total_submitted": 113
       },
       "status": null
     },
@@ -3655,8 +3655,8 @@
         "question__title": "Task Scheduler",
         "question__title_slug": "task-scheduler",
         "question_id": 621,
-        "total_acs": 116,
-        "total_submitted": 261
+        "total_acs": 119,
+        "total_submitted": 265
       },
       "status": null
     },
@@ -3677,8 +3677,8 @@
         "question__title": "Not Boring Movies",
         "question__title_slug": "not-boring-movies",
         "question_id": 620,
-        "total_acs": 904,
-        "total_submitted": 1561
+        "total_acs": 906,
+        "total_submitted": 1564
       },
       "status": null
     },
@@ -3699,8 +3699,8 @@
         "question__title": "Merge Two Binary Trees",
         "question__title_slug": "merge-two-binary-trees",
         "question_id": 617,
-        "total_acs": 348,
-        "total_submitted": 590
+        "total_acs": 351,
+        "total_submitted": 596
       },
       "status": null
     },
@@ -3743,8 +3743,8 @@
         "question__title": "Find Duplicate File in System",
         "question__title_slug": "find-duplicate-file-in-system",
         "question_id": 609,
-        "total_acs": 9,
-        "total_submitted": 22
+        "total_acs": 10,
+        "total_submitted": 23
       },
       "status": null
     },
@@ -3787,8 +3787,8 @@
         "question__title": "Can Place Flowers",
         "question__title_slug": "can-place-flowers",
         "question_id": 605,
-        "total_acs": 252,
-        "total_submitted": 1254
+        "total_acs": 255,
+        "total_submitted": 1266
       },
       "status": null
     },
@@ -3809,8 +3809,8 @@
         "question__title": "Human Traffic of Stadium",
         "question__title_slug": "human-traffic-of-stadium",
         "question_id": 601,
-        "total_acs": 147,
-        "total_submitted": 656
+        "total_acs": 148,
+        "total_submitted": 658
       },
       "status": null
     },
@@ -3919,8 +3919,8 @@
         "question__title": "Big Countries",
         "question__title_slug": "big-countries",
         "question_id": 595,
-        "total_acs": 1330,
-        "total_submitted": 2096
+        "total_acs": 1335,
+        "total_submitted": 2106
       },
       "status": null
     },
@@ -4051,8 +4051,8 @@
         "question__title": "Delete Operation for Two Strings",
         "question__title_slug": "delete-operation-for-two-strings",
         "question_id": 583,
-        "total_acs": 32,
-        "total_submitted": 117
+        "total_acs": 33,
+        "total_submitted": 118
       },
       "status": null
     },
@@ -4139,8 +4139,8 @@
         "question__title": "Subtree of Another Tree",
         "question__title_slug": "subtree-of-another-tree",
         "question_id": 572,
-        "total_acs": 113,
-        "total_submitted": 357
+        "total_acs": 114,
+        "total_submitted": 359
       },
       "status": null
     },
@@ -4271,8 +4271,8 @@
         "question__title": "Array Partition I",
         "question__title_slug": "array-partition-i",
         "question_id": 561,
-        "total_acs": 871,
-        "total_submitted": 1574
+        "total_acs": 872,
+        "total_submitted": 1576
       },
       "status": null
     },
@@ -4293,8 +4293,8 @@
         "question__title": "Subarray Sum Equals K",
         "question__title_slug": "subarray-sum-equals-k",
         "question_id": 560,
-        "total_acs": 114,
-        "total_submitted": 359
+        "total_acs": 115,
+        "total_submitted": 366
       },
       "status": null
     },
@@ -4315,8 +4315,8 @@
         "question__title": "Reverse Words in a String III",
         "question__title_slug": "reverse-words-in-a-string-iii",
         "question_id": 557,
-        "total_acs": 747,
-        "total_submitted": 1249
+        "total_acs": 749,
+        "total_submitted": 1251
       },
       "status": null
     },
@@ -4447,8 +4447,8 @@
         "question__title": "Friend Circles",
         "question__title_slug": "friend-circles",
         "question_id": 547,
-        "total_acs": 119,
-        "total_submitted": 319
+        "total_acs": 125,
+        "total_submitted": 328
       },
       "status": null
     },
@@ -4535,8 +4535,8 @@
         "question__title": "Reverse String II",
         "question__title_slug": "reverse-string-ii",
         "question_id": 541,
-        "total_acs": 181,
-        "total_submitted": 543
+        "total_acs": 182,
+        "total_submitted": 547
       },
       "status": null
     },
@@ -4601,8 +4601,8 @@
         "question__title": "Convert BST to Greater Tree",
         "question__title_slug": "convert-bst-to-greater-tree",
         "question_id": 538,
-        "total_acs": 163,
-        "total_submitted": 356
+        "total_acs": 164,
+        "total_submitted": 359
       },
       "status": null
     },
@@ -4645,8 +4645,8 @@
         "question__title": "Encode and Decode TinyURL",
         "question__title_slug": "encode-and-decode-tinyurl",
         "question_id": 535,
-        "total_acs": 40,
-        "total_submitted": 54
+        "total_acs": 41,
+        "total_submitted": 55
       },
       "status": null
     },
@@ -4667,8 +4667,8 @@
         "question__title": "K-diff Pairs in an Array",
         "question__title_slug": "k-diff-pairs-in-an-array",
         "question_id": 532,
-        "total_acs": 150,
-        "total_submitted": 648
+        "total_acs": 151,
+        "total_submitted": 649
       },
       "status": null
     },
@@ -4777,8 +4777,8 @@
         "question__title": "Longest Word in Dictionary through Deleting",
         "question__title_slug": "longest-word-in-dictionary-through-deleting",
         "question_id": 524,
-        "total_acs": 28,
-        "total_submitted": 109
+        "total_acs": 29,
+        "total_submitted": 113
       },
       "status": null
     },
@@ -4865,8 +4865,8 @@
         "question__title": "Detect Capital",
         "question__title_slug": "detect-capital",
         "question_id": 520,
-        "total_acs": 455,
-        "total_submitted": 970
+        "total_acs": 457,
+        "total_submitted": 976
       },
       "status": null
     },
@@ -4953,8 +4953,8 @@
         "question__title": "Find Largest Value in Each Tree Row",
         "question__title_slug": "find-largest-value-in-each-tree-row",
         "question_id": 515,
-        "total_acs": 85,
-        "total_submitted": 188
+        "total_acs": 86,
+        "total_submitted": 189
       },
       "status": null
     },
@@ -4997,8 +4997,8 @@
         "question__title": "Find Bottom Left Tree Value",
         "question__title_slug": "find-bottom-left-tree-value",
         "question_id": 513,
-        "total_acs": 71,
-        "total_submitted": 169
+        "total_acs": 73,
+        "total_submitted": 172
       },
       "status": null
     },
@@ -5063,8 +5063,8 @@
         "question__title": "Relative Ranks",
         "question__title_slug": "relative-ranks",
         "question_id": 506,
-        "total_acs": 102,
-        "total_submitted": 257
+        "total_acs": 103,
+        "total_submitted": 260
       },
       "status": null
     },
@@ -5085,8 +5085,8 @@
         "question__title": "Base 7",
         "question__title_slug": "base-7",
         "question_id": 504,
-        "total_acs": 120,
-        "total_submitted": 358
+        "total_acs": 121,
+        "total_submitted": 360
       },
       "status": null
     },
@@ -5173,8 +5173,8 @@
         "question__title": "Keyboard Row",
         "question__title_slug": "keyboard-row",
         "question_id": 500,
-        "total_acs": 523,
-        "total_submitted": 841
+        "total_acs": 528,
+        "total_submitted": 847
       },
       "status": null
     },
@@ -5217,8 +5217,8 @@
         "question__title": "Next Greater Element I",
         "question__title_slug": "next-greater-element-i",
         "question_id": 496,
-        "total_acs": 249,
-        "total_submitted": 519
+        "total_acs": 250,
+        "total_submitted": 523
       },
       "status": null
     },
@@ -5239,8 +5239,8 @@
         "question__title": "Teemo Attacking",
         "question__title_slug": "teemo-attacking",
         "question_id": 495,
-        "total_acs": 178,
-        "total_submitted": 382
+        "total_acs": 179,
+        "total_submitted": 383
       },
       "status": null
     },
@@ -5393,8 +5393,8 @@
         "question__title": "Max Consecutive Ones",
         "question__title_slug": "max-consecutive-ones",
         "question_id": 485,
-        "total_acs": 637,
-        "total_submitted": 1304
+        "total_acs": 640,
+        "total_submitted": 1308
       },
       "status": null
     },
@@ -5547,8 +5547,8 @@
         "question__title": "Number Complement",
         "question__title_slug": "number-complement",
         "question_id": 476,
-        "total_acs": 601,
-        "total_submitted": 954
+        "total_acs": 604,
+        "total_submitted": 958
       },
       "status": null
     },
@@ -5569,8 +5569,8 @@
         "question__title": "Heaters",
         "question__title_slug": "heaters",
         "question_id": 475,
-        "total_acs": 46,
-        "total_submitted": 216
+        "total_acs": 47,
+        "total_submitted": 218
       },
       "status": null
     },
@@ -5745,8 +5745,8 @@
         "question__title": "Island Perimeter",
         "question__title_slug": "island-perimeter",
         "question_id": 463,
-        "total_acs": 271,
-        "total_submitted": 493
+        "total_acs": 273,
+        "total_submitted": 500
       },
       "status": null
     },
@@ -5789,8 +5789,8 @@
         "question__title": "Hamming Distance",
         "question__title_slug": "hamming-distance",
         "question_id": 461,
-        "total_acs": 1497,
-        "total_submitted": 2338
+        "total_acs": 1507,
+        "total_submitted": 2351
       },
       "status": null
     },
@@ -5899,8 +5899,8 @@
         "question__title": "132 Pattern",
         "question__title_slug": "132-pattern",
         "question_id": 456,
-        "total_acs": 44,
-        "total_submitted": 257
+        "total_acs": 45,
+        "total_submitted": 262
       },
       "status": null
     },
@@ -5921,8 +5921,8 @@
         "question__title": "Assign Cookies",
         "question__title_slug": "assign-cookies",
         "question_id": 455,
-        "total_acs": 324,
-        "total_submitted": 863
+        "total_acs": 326,
+        "total_submitted": 878
       },
       "status": null
     },
@@ -5987,8 +5987,8 @@
         "question__title": "Minimum Number of Arrows to Burst Balloons",
         "question__title_slug": "minimum-number-of-arrows-to-burst-balloons",
         "question_id": 452,
-        "total_acs": 90,
-        "total_submitted": 279
+        "total_acs": 91,
+        "total_submitted": 281
       },
       "status": null
     },
@@ -6009,8 +6009,8 @@
         "question__title": "Sort Characters By Frequency",
         "question__title_slug": "sort-characters-by-frequency",
         "question_id": 451,
-        "total_acs": 112,
-        "total_submitted": 263
+        "total_acs": 114,
+        "total_submitted": 265
       },
       "status": null
     },
@@ -6053,8 +6053,8 @@
         "question__title": "Serialize and Deserialize BST",
         "question__title_slug": "serialize-and-deserialize-bst",
         "question_id": 449,
-        "total_acs": 24,
-        "total_submitted": 65
+        "total_acs": 26,
+        "total_submitted": 69
       },
       "status": null
     },
@@ -6075,8 +6075,8 @@
         "question__title": "Find All Numbers Disappeared in an Array",
         "question__title_slug": "find-all-numbers-disappeared-in-an-array",
         "question_id": 448,
-        "total_acs": 322,
-        "total_submitted": 824
+        "total_acs": 323,
+        "total_submitted": 825
       },
       "status": null
     },
@@ -6097,8 +6097,8 @@
         "question__title": "Number of Boomerangs",
         "question__title_slug": "number-of-boomerangs",
         "question_id": 447,
-        "total_acs": 97,
-        "total_submitted": 241
+        "total_acs": 99,
+        "total_submitted": 253
       },
       "status": null
     },
@@ -6207,8 +6207,8 @@
         "question__title": "Arranging Coins",
         "question__title_slug": "arranging-coins",
         "question_id": 441,
-        "total_acs": 302,
-        "total_submitted": 1049
+        "total_acs": 303,
+        "total_submitted": 1055
       },
       "status": null
     },
@@ -6251,8 +6251,8 @@
         "question__title": "Find All Anagrams in a String",
         "question__title_slug": "find-all-anagrams-in-a-string",
         "question_id": 438,
-        "total_acs": 116,
-        "total_submitted": 492
+        "total_acs": 118,
+        "total_submitted": 494
       },
       "status": null
     },
@@ -6317,8 +6317,8 @@
         "question__title": "Non-overlapping Intervals",
         "question__title_slug": "non-overlapping-intervals",
         "question_id": 435,
-        "total_acs": 44,
-        "total_submitted": 184
+        "total_acs": 45,
+        "total_submitted": 191
       },
       "status": null
     },
@@ -6339,8 +6339,8 @@
         "question__title": "Number of Segments in a String",
         "question__title_slug": "number-of-segments-in-a-string",
         "question_id": 434,
-        "total_acs": 225,
-        "total_submitted": 859
+        "total_acs": 226,
+        "total_submitted": 870
       },
       "status": null
     },
@@ -6406,7 +6406,7 @@
         "question__title_slug": "longest-repeating-character-replacement",
         "question_id": 424,
         "total_acs": 11,
-        "total_submitted": 31
+        "total_submitted": 37
       },
       "status": null
     },
@@ -6449,8 +6449,8 @@
         "question__title": "Maximum XOR of Two Numbers in an Array",
         "question__title_slug": "maximum-xor-of-two-numbers-in-an-array",
         "question_id": 421,
-        "total_acs": 11,
-        "total_submitted": 30
+        "total_acs": 12,
+        "total_submitted": 31
       },
       "status": null
     },
@@ -6581,8 +6581,8 @@
         "question__title": "Third Maximum Number",
         "question__title_slug": "third-maximum-number",
         "question_id": 414,
-        "total_acs": 366,
-        "total_submitted": 1383
+        "total_acs": 370,
+        "total_submitted": 1401
       },
       "status": null
     },
@@ -6603,8 +6603,8 @@
         "question__title": "Arithmetic Slices",
         "question__title_slug": "arithmetic-slices",
         "question_id": 413,
-        "total_acs": 153,
-        "total_submitted": 278
+        "total_acs": 155,
+        "total_submitted": 280
       },
       "status": null
     },
@@ -6625,8 +6625,8 @@
         "question__title": "Fizz Buzz",
         "question__title_slug": "fizz-buzz",
         "question_id": 412,
-        "total_acs": 899,
-        "total_submitted": 1736
+        "total_acs": 902,
+        "total_submitted": 1742
       },
       "status": null
     },
@@ -6735,8 +6735,8 @@
         "question__title": "Convert a Number to Hexadecimal",
         "question__title_slug": "convert-a-number-to-hexadecimal",
         "question_id": 405,
-        "total_acs": 108,
-        "total_submitted": 312
+        "total_acs": 110,
+        "total_submitted": 321
       },
       "status": null
     },
@@ -6846,7 +6846,7 @@
         "question__title_slug": "nth-digit",
         "question_id": 400,
         "total_acs": 125,
-        "total_submitted": 474
+        "total_submitted": 478
       },
       "status": null
     },
@@ -7087,8 +7087,8 @@
         "question__title": "Find the Difference",
         "question__title_slug": "find-the-difference",
         "question_id": 389,
-        "total_acs": 388,
-        "total_submitted": 846
+        "total_acs": 391,
+        "total_submitted": 854
       },
       "status": null
     },
@@ -7131,8 +7131,8 @@
         "question__title": "First Unique Character in a String",
         "question__title_slug": "first-unique-character-in-a-string",
         "question_id": 387,
-        "total_acs": 2031,
-        "total_submitted": 6756
+        "total_acs": 2044,
+        "total_submitted": 6793
       },
       "status": null
     },
@@ -7197,8 +7197,8 @@
         "question__title": "Shuffle an Array",
         "question__title_slug": "shuffle-an-array",
         "question_id": 384,
-        "total_acs": 354,
-        "total_submitted": 858
+        "total_acs": 355,
+        "total_submitted": 859
       },
       "status": null
     },
@@ -7219,8 +7219,8 @@
         "question__title": "Ransom Note",
         "question__title_slug": "ransom-note",
         "question_id": 383,
-        "total_acs": 244,
-        "total_submitted": 618
+        "total_acs": 245,
+        "total_submitted": 622
       },
       "status": null
     },
@@ -7307,8 +7307,8 @@
         "question__title": "Kth Smallest Element in a Sorted Matrix",
         "question__title_slug": "kth-smallest-element-in-a-sorted-matrix",
         "question_id": 378,
-        "total_acs": 105,
-        "total_submitted": 209
+        "total_acs": 106,
+        "total_submitted": 210
       },
       "status": null
     },
@@ -7395,8 +7395,8 @@
         "question__title": "Guess Number Higher or Lower",
         "question__title_slug": "guess-number-higher-or-lower",
         "question_id": 374,
-        "total_acs": 222,
-        "total_submitted": 873
+        "total_acs": 225,
+        "total_submitted": 890
       },
       "status": null
     },
@@ -7461,8 +7461,8 @@
         "question__title": "Sum of Two Integers",
         "question__title_slug": "sum-of-two-integers",
         "question_id": 371,
-        "total_acs": 704,
-        "total_submitted": 1303
+        "total_acs": 706,
+        "total_submitted": 1305
       },
       "status": null
     },
@@ -7505,8 +7505,8 @@
         "question__title": "Valid Perfect Square",
         "question__title_slug": "valid-perfect-square",
         "question_id": 367,
-        "total_acs": 415,
-        "total_submitted": 1179
+        "total_acs": 418,
+        "total_submitted": 1183
       },
       "status": null
     },
@@ -7659,8 +7659,8 @@
         "question__title": "Intersection of Two Arrays II",
         "question__title_slug": "intersection-of-two-arrays-ii",
         "question_id": 350,
-        "total_acs": 2590,
-        "total_submitted": 8143
+        "total_acs": 2599,
+        "total_submitted": 8170
       },
       "status": null
     },
@@ -7681,8 +7681,8 @@
         "question__title": "Intersection of Two Arrays",
         "question__title_slug": "intersection-of-two-arrays",
         "question_id": 349,
-        "total_acs": 592,
-        "total_submitted": 1325
+        "total_acs": 598,
+        "total_submitted": 1332
       },
       "status": null
     },
@@ -7703,8 +7703,8 @@
         "question__title": "Top K Frequent Elements",
         "question__title_slug": "top-k-frequent-elements",
         "question_id": 347,
-        "total_acs": 280,
-        "total_submitted": 572
+        "total_acs": 282,
+        "total_submitted": 575
       },
       "status": null
     },
@@ -7725,8 +7725,8 @@
         "question__title": "Reverse Vowels of a String",
         "question__title_slug": "reverse-vowels-of-a-string",
         "question_id": 345,
-        "total_acs": 276,
-        "total_submitted": 707
+        "total_acs": 285,
+        "total_submitted": 719
       },
       "status": null
     },
@@ -7747,8 +7747,8 @@
         "question__title": "Reverse String",
         "question__title_slug": "reverse-string",
         "question_id": 344,
-        "total_acs": 3520,
-        "total_submitted": 5749
+        "total_acs": 3532,
+        "total_submitted": 5772
       },
       "status": null
     },
@@ -7791,8 +7791,8 @@
         "question__title": "Power of Four",
         "question__title_slug": "power-of-four",
         "question_id": 342,
-        "total_acs": 315,
-        "total_submitted": 774
+        "total_acs": 317,
+        "total_submitted": 777
       },
       "status": null
     },
@@ -8033,8 +8033,8 @@
         "question__title": "Odd Even Linked List",
         "question__title_slug": "odd-even-linked-list",
         "question_id": 328,
-        "total_acs": 249,
-        "total_submitted": 558
+        "total_acs": 251,
+        "total_submitted": 563
       },
       "status": null
     },
@@ -8077,8 +8077,8 @@
         "question__title": "Power of Three",
         "question__title_slug": "power-of-three",
         "question_id": 326,
-        "total_acs": 924,
-        "total_submitted": 2464
+        "total_acs": 928,
+        "total_submitted": 2470
       },
       "status": null
     },
@@ -8121,8 +8121,8 @@
         "question__title": "Coin Change",
         "question__title_slug": "coin-change",
         "question_id": 322,
-        "total_acs": 373,
-        "total_submitted": 1791
+        "total_acs": 380,
+        "total_submitted": 1821
       },
       "status": null
     },
@@ -8165,8 +8165,8 @@
         "question__title": "Bulb Switcher",
         "question__title_slug": "bulb-switcher",
         "question_id": 319,
-        "total_acs": 109,
-        "total_submitted": 390
+        "total_acs": 110,
+        "total_submitted": 391
       },
       "status": null
     },
@@ -8319,8 +8319,8 @@
         "question__title": "Best Time to Buy and Sell Stock with Cooldown",
         "question__title_slug": "best-time-to-buy-and-sell-stock-with-cooldown",
         "question_id": 309,
-        "total_acs": 77,
-        "total_submitted": 174
+        "total_acs": 78,
+        "total_submitted": 175
       },
       "status": null
     },
@@ -8451,8 +8451,8 @@
         "question__title": "Longest Increasing Subsequence",
         "question__title_slug": "longest-increasing-subsequence",
         "question_id": 300,
-        "total_acs": 432,
-        "total_submitted": 1304
+        "total_acs": 435,
+        "total_submitted": 1312
       },
       "status": null
     },
@@ -8539,8 +8539,8 @@
         "question__title": "Nim Game",
         "question__title_slug": "nim-game",
         "question_id": 292,
-        "total_acs": 752,
-        "total_submitted": 1246
+        "total_acs": 757,
+        "total_submitted": 1268
       },
       "status": null
     },
@@ -8561,8 +8561,8 @@
         "question__title": "Word Pattern",
         "question__title_slug": "word-pattern",
         "question_id": 290,
-        "total_acs": 282,
-        "total_submitted": 902
+        "total_acs": 283,
+        "total_submitted": 905
       },
       "status": null
     },
@@ -8583,8 +8583,8 @@
         "question__title": "Game of Life",
         "question__title_slug": "game-of-life",
         "question_id": 289,
-        "total_acs": 57,
-        "total_submitted": 162
+        "total_acs": 58,
+        "total_submitted": 164
       },
       "status": null
     },
@@ -8605,8 +8605,8 @@
         "question__title": "Find the Duplicate Number",
         "question__title_slug": "find-the-duplicate-number",
         "question_id": 287,
-        "total_acs": 329,
-        "total_submitted": 706
+        "total_acs": 331,
+        "total_submitted": 708
       },
       "status": null
     },
@@ -8649,10 +8649,10 @@
         "question__title": "Move Zeroes",
         "question__title_slug": "move-zeroes",
         "question_id": 283,
-        "total_acs": 3359,
-        "total_submitted": 6946
+        "total_acs": 3384,
+        "total_submitted": 6992
       },
-      "status": null
+      "status": "ac"
     },
     {
       "difficulty": {
@@ -8715,8 +8715,8 @@
         "question__title": "First Bad Version",
         "question__title_slug": "first-bad-version",
         "question_id": 278,
-        "total_acs": 1007,
-        "total_submitted": 5494
+        "total_acs": 1015,
+        "total_submitted": 5519
       },
       "status": null
     },
@@ -8803,8 +8803,8 @@
         "question__title": "Missing Number",
         "question__title_slug": "missing-number",
         "question_id": 268,
-        "total_acs": 1052,
-        "total_submitted": 2361
+        "total_acs": 1054,
+        "total_submitted": 2375
       },
       "status": null
     },
@@ -8825,8 +8825,8 @@
         "question__title": "Ugly Number II",
         "question__title_slug": "ugly-number-ii",
         "question_id": 264,
-        "total_acs": 197,
-        "total_submitted": 824
+        "total_acs": 199,
+        "total_submitted": 833
       },
       "status": null
     },
@@ -8847,8 +8847,8 @@
         "question__title": "Ugly Number",
         "question__title_slug": "ugly-number",
         "question_id": 263,
-        "total_acs": 344,
-        "total_submitted": 996
+        "total_acs": 345,
+        "total_submitted": 999
       },
       "status": null
     },
@@ -8869,8 +8869,8 @@
         "question__title": "Trips and Users",
         "question__title_slug": "trips-and-users",
         "question_id": 262,
-        "total_acs": 179,
-        "total_submitted": 657
+        "total_acs": 182,
+        "total_submitted": 669
       },
       "status": null
     },
@@ -8891,8 +8891,8 @@
         "question__title": "Single Number III",
         "question__title_slug": "single-number-iii",
         "question_id": 260,
-        "total_acs": 190,
-        "total_submitted": 345
+        "total_acs": 191,
+        "total_submitted": 346
       },
       "status": null
     },
@@ -8913,8 +8913,8 @@
         "question__title": "Add Digits",
         "question__title_slug": "add-digits",
         "question_id": 258,
-        "total_acs": 544,
-        "total_submitted": 1104
+        "total_acs": 548,
+        "total_submitted": 1109
       },
       "status": null
     },
@@ -8957,8 +8957,8 @@
         "question__title": "Valid Anagram",
         "question__title_slug": "valid-anagram",
         "question_id": 242,
-        "total_acs": 1658,
-        "total_submitted": 4022
+        "total_acs": 1664,
+        "total_submitted": 4034
       },
       "status": null
     },
@@ -9045,8 +9045,8 @@
         "question__title": "Product of Array Except Self",
         "question__title_slug": "product-of-array-except-self",
         "question_id": 238,
-        "total_acs": 235,
-        "total_submitted": 476
+        "total_acs": 239,
+        "total_submitted": 481
       },
       "status": null
     },
@@ -9067,8 +9067,8 @@
         "question__title": "Delete Node in a Linked List",
         "question__title_slug": "delete-node-in-a-linked-list",
         "question_id": 237,
-        "total_acs": 1559,
-        "total_submitted": 4447
+        "total_acs": 1574,
+        "total_submitted": 4492
       },
       "status": null
     },
@@ -9089,8 +9089,8 @@
         "question__title": "Lowest Common Ancestor of a Binary Tree",
         "question__title_slug": "lowest-common-ancestor-of-a-binary-tree",
         "question_id": 236,
-        "total_acs": 338,
-        "total_submitted": 1366
+        "total_acs": 341,
+        "total_submitted": 1373
       },
       "status": null
     },
@@ -9111,8 +9111,8 @@
         "question__title": "Lowest Common Ancestor of a Binary Search Tree",
         "question__title_slug": "lowest-common-ancestor-of-a-binary-search-tree",
         "question_id": 235,
-        "total_acs": 379,
-        "total_submitted": 916
+        "total_acs": 382,
+        "total_submitted": 920
       },
       "status": null
     },
@@ -9133,8 +9133,8 @@
         "question__title": "Palindrome Linked List",
         "question__title_slug": "palindrome-linked-list",
         "question_id": 234,
-        "total_acs": 1180,
-        "total_submitted": 3973
+        "total_acs": 1189,
+        "total_submitted": 3991
       },
       "status": null
     },
@@ -9178,7 +9178,7 @@
         "question__title_slug": "implement-queue-using-stacks",
         "question_id": 232,
         "total_acs": 229,
-        "total_submitted": 623
+        "total_submitted": 625
       },
       "status": null
     },
@@ -9199,8 +9199,8 @@
         "question__title": "Power of Two",
         "question__title_slug": "power-of-two",
         "question_id": 231,
-        "total_acs": 542,
-        "total_submitted": 1398
+        "total_acs": 544,
+        "total_submitted": 1408
       },
       "status": null
     },
@@ -9221,8 +9221,8 @@
         "question__title": "Kth Smallest Element in a BST",
         "question__title_slug": "kth-smallest-element-in-a-bst",
         "question_id": 230,
-        "total_acs": 284,
-        "total_submitted": 529
+        "total_acs": 287,
+        "total_submitted": 536
       },
       "status": null
     },
@@ -9309,8 +9309,8 @@
         "question__title": "Invert Binary Tree",
         "question__title_slug": "invert-binary-tree",
         "question_id": 226,
-        "total_acs": 565,
-        "total_submitted": 1016
+        "total_acs": 572,
+        "total_submitted": 1026
       },
       "status": null
     },
@@ -9331,8 +9331,8 @@
         "question__title": "Implement Stack using Queues",
         "question__title_slug": "implement-stack-using-queues",
         "question_id": 225,
-        "total_acs": 215,
-        "total_submitted": 538
+        "total_acs": 218,
+        "total_submitted": 547
       },
       "status": null
     },
@@ -9397,8 +9397,8 @@
         "question__title": "Count Complete Tree Nodes",
         "question__title_slug": "count-complete-tree-nodes",
         "question_id": 222,
-        "total_acs": 133,
-        "total_submitted": 515
+        "total_acs": 135,
+        "total_submitted": 522
       },
       "status": null
     },
@@ -9441,8 +9441,8 @@
         "question__title": "Contains Duplicate III",
         "question__title_slug": "contains-duplicate-iii",
         "question_id": 220,
-        "total_acs": 170,
-        "total_submitted": 1134
+        "total_acs": 171,
+        "total_submitted": 1136
       },
       "status": null
     },
@@ -9463,8 +9463,8 @@
         "question__title": "Contains Duplicate II",
         "question__title_slug": "contains-duplicate-ii",
         "question_id": 219,
-        "total_acs": 485,
-        "total_submitted": 2245
+        "total_acs": 486,
+        "total_submitted": 2261
       },
       "status": null
     },
@@ -9507,8 +9507,8 @@
         "question__title": "Contains Duplicate",
         "question__title_slug": "contains-duplicate",
         "question_id": 217,
-        "total_acs": 4642,
-        "total_submitted": 11679
+        "total_acs": 4650,
+        "total_submitted": 11705
       },
       "status": "ac"
     },
@@ -9551,8 +9551,8 @@
         "question__title": "Kth Largest Element in an Array",
         "question__title_slug": "kth-largest-element-in-an-array",
         "question_id": 215,
-        "total_acs": 644,
-        "total_submitted": 1658
+        "total_acs": 645,
+        "total_submitted": 1659
       },
       "status": null
     },
@@ -9595,8 +9595,8 @@
         "question__title": "House Robber II",
         "question__title_slug": "house-robber-ii",
         "question_id": 213,
-        "total_acs": 267,
-        "total_submitted": 930
+        "total_acs": 269,
+        "total_submitted": 937
       },
       "status": null
     },
@@ -9640,7 +9640,7 @@
         "question__title_slug": "add-and-search-word-data-structure-design",
         "question_id": 211,
         "total_acs": 43,
-        "total_submitted": 122
+        "total_submitted": 124
       },
       "status": null
     },
@@ -9705,8 +9705,8 @@
         "question__title": "Implement Trie (Prefix Tree)",
         "question__title_slug": "implement-trie-prefix-tree",
         "question_id": 208,
-        "total_acs": 117,
-        "total_submitted": 307
+        "total_acs": 119,
+        "total_submitted": 311
       },
       "status": null
     },
@@ -9749,8 +9749,8 @@
         "question__title": "Reverse Linked List",
         "question__title_slug": "reverse-linked-list",
         "question_id": 206,
-        "total_acs": 2347,
-        "total_submitted": 5795
+        "total_acs": 2352,
+        "total_submitted": 5815
       },
       "status": null
     },
@@ -9771,8 +9771,8 @@
         "question__title": "Isomorphic Strings",
         "question__title_slug": "isomorphic-strings",
         "question_id": 205,
-        "total_acs": 280,
-        "total_submitted": 871
+        "total_acs": 281,
+        "total_submitted": 872
       },
       "status": null
     },
@@ -9793,8 +9793,8 @@
         "question__title": "Count Primes",
         "question__title_slug": "count-primes",
         "question_id": 204,
-        "total_acs": 926,
-        "total_submitted": 5173
+        "total_acs": 927,
+        "total_submitted": 5179
       },
       "status": null
     },
@@ -9815,8 +9815,8 @@
         "question__title": "Remove Linked List Elements",
         "question__title_slug": "remove-linked-list-elements",
         "question_id": 203,
-        "total_acs": 825,
-        "total_submitted": 2531
+        "total_acs": 828,
+        "total_submitted": 2537
       },
       "status": null
     },
@@ -9837,8 +9837,8 @@
         "question__title": "Happy Number",
         "question__title_slug": "happy-number",
         "question_id": 202,
-        "total_acs": 632,
-        "total_submitted": 1487
+        "total_acs": 638,
+        "total_submitted": 1495
       },
       "status": null
     },
@@ -9860,7 +9860,7 @@
         "question__title_slug": "bitwise-and-of-numbers-range",
         "question_id": 201,
         "total_acs": 64,
-        "total_submitted": 224
+        "total_submitted": 226
       },
       "status": null
     },
@@ -9903,8 +9903,8 @@
         "question__title": "Binary Tree Right Side View",
         "question__title_slug": "binary-tree-right-side-view",
         "question_id": 199,
-        "total_acs": 147,
-        "total_submitted": 340
+        "total_acs": 148,
+        "total_submitted": 341
       },
       "status": null
     },
@@ -9925,8 +9925,8 @@
         "question__title": "House Robber",
         "question__title_slug": "house-robber",
         "question_id": 198,
-        "total_acs": 1251,
-        "total_submitted": 3473
+        "total_acs": 1259,
+        "total_submitted": 3492
       },
       "status": null
     },
@@ -9947,8 +9947,8 @@
         "question__title": "Rising Temperature",
         "question__title_slug": "rising-temperature",
         "question_id": 197,
-        "total_acs": 493,
-        "total_submitted": 1945
+        "total_acs": 495,
+        "total_submitted": 1954
       },
       "status": null
     },
@@ -9969,8 +9969,8 @@
         "question__title": "Delete Duplicate Emails",
         "question__title_slug": "delete-duplicate-emails",
         "question_id": 196,
-        "total_acs": 664,
-        "total_submitted": 1797
+        "total_acs": 665,
+        "total_submitted": 1798
       },
       "status": null
     },
@@ -9991,8 +9991,8 @@
         "question__title": "Tenth Line",
         "question__title_slug": "tenth-line",
         "question_id": 195,
-        "total_acs": 337,
-        "total_submitted": 1043
+        "total_acs": 341,
+        "total_submitted": 1049
       },
       "status": null
     },
@@ -10014,7 +10014,7 @@
         "question__title_slug": "transpose-file",
         "question_id": 194,
         "total_acs": 97,
-        "total_submitted": 409
+        "total_submitted": 412
       },
       "status": null
     },
@@ -10057,8 +10057,8 @@
         "question__title": "Word Frequency",
         "question__title_slug": "word-frequency",
         "question_id": 192,
-        "total_acs": 175,
-        "total_submitted": 830
+        "total_acs": 176,
+        "total_submitted": 831
       },
       "status": null
     },
@@ -10079,8 +10079,8 @@
         "question__title": "Number of 1 Bits",
         "question__title_slug": "number-of-1-bits",
         "question_id": 191,
-        "total_acs": 1037,
-        "total_submitted": 2605
+        "total_acs": 1040,
+        "total_submitted": 2609
       },
       "status": null
     },
@@ -10101,8 +10101,8 @@
         "question__title": "Reverse Bits",
         "question__title_slug": "reverse-bits",
         "question_id": 190,
-        "total_acs": 574,
-        "total_submitted": 2048
+        "total_acs": 581,
+        "total_submitted": 2096
       },
       "status": null
     },
@@ -10123,8 +10123,8 @@
         "question__title": "Rotate Array",
         "question__title_slug": "rotate-array",
         "question_id": 189,
-        "total_acs": 4536,
-        "total_submitted": 18561
+        "total_acs": 4543,
+        "total_submitted": 18593
       },
       "status": "ac"
     },
@@ -10145,8 +10145,8 @@
         "question__title": "Best Time to Buy and Sell Stock IV",
         "question__title_slug": "best-time-to-buy-and-sell-stock-iv",
         "question_id": 188,
-        "total_acs": 66,
-        "total_submitted": 375
+        "total_acs": 67,
+        "total_submitted": 376
       },
       "status": null
     },
@@ -10189,8 +10189,8 @@
         "question__title": "Department Top Three Salaries",
         "question__title_slug": "department-top-three-salaries",
         "question_id": 185,
-        "total_acs": 290,
-        "total_submitted": 1649
+        "total_acs": 295,
+        "total_submitted": 1656
       },
       "status": null
     },
@@ -10211,8 +10211,8 @@
         "question__title": "Department Highest Salary",
         "question__title_slug": "department-highest-salary",
         "question_id": 184,
-        "total_acs": 505,
-        "total_submitted": 2100
+        "total_acs": 506,
+        "total_submitted": 2101
       },
       "status": null
     },
@@ -10233,8 +10233,8 @@
         "question__title": "Customers Who Never Order",
         "question__title_slug": "customers-who-never-order",
         "question_id": 183,
-        "total_acs": 1017,
-        "total_submitted": 2033
+        "total_acs": 1019,
+        "total_submitted": 2036
       },
       "status": null
     },
@@ -10255,8 +10255,8 @@
         "question__title": "Duplicate Emails",
         "question__title_slug": "duplicate-emails",
         "question_id": 182,
-        "total_acs": 1422,
-        "total_submitted": 2320
+        "total_acs": 1424,
+        "total_submitted": 2322
       },
       "status": null
     },
@@ -10277,8 +10277,8 @@
         "question__title": "Employees Earning More Than Their Managers",
         "question__title_slug": "employees-earning-more-than-their-managers",
         "question_id": 181,
-        "total_acs": 1042,
-        "total_submitted": 2040
+        "total_acs": 1045,
+        "total_submitted": 2050
       },
       "status": null
     },
@@ -10299,8 +10299,8 @@
         "question__title": "Consecutive Numbers",
         "question__title_slug": "consecutive-numbers",
         "question_id": 180,
-        "total_acs": 403,
-        "total_submitted": 1349
+        "total_acs": 404,
+        "total_submitted": 1351
       },
       "status": null
     },
@@ -10344,7 +10344,7 @@
         "question__title_slug": "rank-scores",
         "question_id": 178,
         "total_acs": 546,
-        "total_submitted": 1425
+        "total_submitted": 1428
       },
       "status": null
     },
@@ -10365,8 +10365,8 @@
         "question__title": "Nth Highest Salary",
         "question__title_slug": "nth-highest-salary",
         "question_id": 177,
-        "total_acs": 584,
-        "total_submitted": 1723
+        "total_acs": 585,
+        "total_submitted": 1724
       },
       "status": null
     },
@@ -10387,8 +10387,8 @@
         "question__title": "Second Highest Salary",
         "question__title_slug": "second-highest-salary",
         "question_id": 176,
-        "total_acs": 1622,
-        "total_submitted": 6669
+        "total_acs": 1629,
+        "total_submitted": 6690
       },
       "status": null
     },
@@ -10409,8 +10409,8 @@
         "question__title": "Combine Two Tables",
         "question__title_slug": "combine-two-tables",
         "question_id": 175,
-        "total_acs": 2735,
-        "total_submitted": 4731
+        "total_acs": 2742,
+        "total_submitted": 4754
       },
       "status": null
     },
@@ -10475,8 +10475,8 @@
         "question__title": "Factorial Trailing Zeroes",
         "question__title_slug": "factorial-trailing-zeroes",
         "question_id": 172,
-        "total_acs": 395,
-        "total_submitted": 1151
+        "total_acs": 398,
+        "total_submitted": 1155
       },
       "status": null
     },
@@ -10497,8 +10497,8 @@
         "question__title": "Excel Sheet Column Number",
         "question__title_slug": "excel-sheet-column-number",
         "question_id": 171,
-        "total_acs": 611,
-        "total_submitted": 1109
+        "total_acs": 618,
+        "total_submitted": 1138
       },
       "status": null
     },
@@ -10519,8 +10519,8 @@
         "question__title": "Majority Element",
         "question__title_slug": "majority-element",
         "question_id": 169,
-        "total_acs": 1001,
-        "total_submitted": 2170
+        "total_acs": 1004,
+        "total_submitted": 2179
       },
       "status": null
     },
@@ -10542,7 +10542,7 @@
         "question__title_slug": "excel-sheet-column-title",
         "question_id": 168,
         "total_acs": 330,
-        "total_submitted": 1280
+        "total_submitted": 1284
       },
       "status": null
     },
@@ -10563,8 +10563,8 @@
         "question__title": "Two Sum II - Input array is sorted",
         "question__title_slug": "two-sum-ii-input-array-is-sorted",
         "question_id": 167,
-        "total_acs": 950,
-        "total_submitted": 2462
+        "total_acs": 952,
+        "total_submitted": 2478
       },
       "status": null
     },
@@ -10630,7 +10630,7 @@
         "question__title_slug": "maximum-gap",
         "question_id": 164,
         "total_acs": 73,
-        "total_submitted": 175
+        "total_submitted": 176
       },
       "status": null
     },
@@ -10673,8 +10673,8 @@
         "question__title": "Intersection of Two Linked Lists",
         "question__title_slug": "intersection-of-two-linked-lists",
         "question_id": 160,
-        "total_acs": 784,
-        "total_submitted": 2637
+        "total_acs": 789,
+        "total_submitted": 2651
       },
       "status": null
     },
@@ -10805,8 +10805,8 @@
         "question__title": "Evaluate Reverse Polish Notation",
         "question__title_slug": "evaluate-reverse-polish-notation",
         "question_id": 150,
-        "total_acs": 221,
-        "total_submitted": 674
+        "total_acs": 222,
+        "total_submitted": 675
       },
       "status": null
     },
@@ -10828,7 +10828,7 @@
         "question__title_slug": "max-points-on-a-line",
         "question_id": 149,
         "total_acs": 60,
-        "total_submitted": 637
+        "total_submitted": 638
       },
       "status": null
     },
@@ -10849,8 +10849,8 @@
         "question__title": "Sort List",
         "question__title_slug": "sort-list",
         "question_id": 148,
-        "total_acs": 252,
-        "total_submitted": 703
+        "total_acs": 253,
+        "total_submitted": 704
       },
       "status": null
     },
@@ -10915,8 +10915,8 @@
         "question__title": "Binary Tree Postorder Traversal",
         "question__title_slug": "binary-tree-postorder-traversal",
         "question_id": 145,
-        "total_acs": 793,
-        "total_submitted": 1363
+        "total_acs": 794,
+        "total_submitted": 1364
       },
       "status": null
     },
@@ -10937,8 +10937,8 @@
         "question__title": "Binary Tree Preorder Traversal",
         "question__title_slug": "binary-tree-preorder-traversal",
         "question_id": 144,
-        "total_acs": 1143,
-        "total_submitted": 2525
+        "total_acs": 1149,
+        "total_submitted": 2534
       },
       "status": null
     },
@@ -11003,8 +11003,8 @@
         "question__title": "Linked List Cycle",
         "question__title_slug": "linked-list-cycle",
         "question_id": 141,
-        "total_acs": 1479,
-        "total_submitted": 5167
+        "total_acs": 1483,
+        "total_submitted": 5187
       },
       "status": null
     },
@@ -11091,8 +11091,8 @@
         "question__title": "Single Number II",
         "question__title_slug": "single-number-ii",
         "question_id": 137,
-        "total_acs": 261,
-        "total_submitted": 438
+        "total_acs": 262,
+        "total_submitted": 440
       },
       "status": null
     },
@@ -11113,8 +11113,8 @@
         "question__title": "Single Number",
         "question__title_slug": "single-number",
         "question_id": 136,
-        "total_acs": 4120,
-        "total_submitted": 8886
+        "total_acs": 4132,
+        "total_submitted": 8902
       },
       "status": "ac"
     },
@@ -11158,7 +11158,7 @@
         "question__title_slug": "gas-station",
         "question_id": 134,
         "total_acs": 218,
-        "total_submitted": 632
+        "total_submitted": 635
       },
       "status": null
     },
@@ -11223,8 +11223,8 @@
         "question__title": "Palindrome Partitioning",
         "question__title_slug": "palindrome-partitioning",
         "question_id": 131,
-        "total_acs": 157,
-        "total_submitted": 258
+        "total_acs": 158,
+        "total_submitted": 259
       },
       "status": null
     },
@@ -11245,8 +11245,8 @@
         "question__title": "Surrounded Regions",
         "question__title_slug": "surrounded-regions",
         "question_id": 130,
-        "total_acs": 142,
-        "total_submitted": 480
+        "total_acs": 144,
+        "total_submitted": 524
       },
       "status": null
     },
@@ -11267,8 +11267,8 @@
         "question__title": "Sum Root to Leaf Numbers",
         "question__title_slug": "sum-root-to-leaf-numbers",
         "question_id": 129,
-        "total_acs": 193,
-        "total_submitted": 452
+        "total_acs": 194,
+        "total_submitted": 453
       },
       "status": null
     },
@@ -11355,8 +11355,8 @@
         "question__title": "Valid Palindrome",
         "question__title_slug": "valid-palindrome",
         "question_id": 125,
-        "total_acs": 1806,
-        "total_submitted": 6598
+        "total_acs": 1815,
+        "total_submitted": 6628
       },
       "status": null
     },
@@ -11377,8 +11377,8 @@
         "question__title": "Binary Tree Maximum Path Sum",
         "question__title_slug": "binary-tree-maximum-path-sum",
         "question_id": 124,
-        "total_acs": 187,
-        "total_submitted": 768
+        "total_acs": 188,
+        "total_submitted": 769
       },
       "status": null
     },
@@ -11421,8 +11421,8 @@
         "question__title": "Best Time to Buy and Sell Stock II",
         "question__title_slug": "best-time-to-buy-and-sell-stock-ii",
         "question_id": 122,
-        "total_acs": 4607,
-        "total_submitted": 11076
+        "total_acs": 4617,
+        "total_submitted": 11106
       },
       "status": "ac"
     },
@@ -11443,8 +11443,8 @@
         "question__title": "Best Time to Buy and Sell Stock",
         "question__title_slug": "best-time-to-buy-and-sell-stock",
         "question_id": 121,
-        "total_acs": 1970,
-        "total_submitted": 4934
+        "total_acs": 1978,
+        "total_submitted": 4952
       },
       "status": null
     },
@@ -11465,8 +11465,8 @@
         "question__title": "Triangle",
         "question__title_slug": "triangle",
         "question_id": 120,
-        "total_acs": 422,
-        "total_submitted": 939
+        "total_acs": 423,
+        "total_submitted": 940
       },
       "status": null
     },
@@ -11488,7 +11488,7 @@
         "question__title_slug": "pascals-triangle-ii",
         "question_id": 119,
         "total_acs": 592,
-        "total_submitted": 1290
+        "total_submitted": 1292
       },
       "status": null
     },
@@ -11509,8 +11509,8 @@
         "question__title": "Pascal's Triangle",
         "question__title_slug": "pascals-triangle",
         "question_id": 118,
-        "total_acs": 1022,
-        "total_submitted": 2187
+        "total_acs": 1027,
+        "total_submitted": 2195
       },
       "status": null
     },
@@ -11532,7 +11532,7 @@
         "question__title_slug": "populating-next-right-pointers-in-each-node-ii",
         "question_id": 117,
         "total_acs": 242,
-        "total_submitted": 767
+        "total_submitted": 772
       },
       "status": null
     },
@@ -11553,8 +11553,8 @@
         "question__title": "Populating Next Right Pointers in Each Node",
         "question__title_slug": "populating-next-right-pointers-in-each-node",
         "question_id": 116,
-        "total_acs": 412,
-        "total_submitted": 1198
+        "total_acs": 413,
+        "total_submitted": 1200
       },
       "status": null
     },
@@ -11619,8 +11619,8 @@
         "question__title": "Path Sum II",
         "question__title_slug": "path-sum-ii",
         "question_id": 113,
-        "total_acs": 268,
-        "total_submitted": 683
+        "total_acs": 270,
+        "total_submitted": 686
       },
       "status": null
     },
@@ -11641,8 +11641,8 @@
         "question__title": "Path Sum",
         "question__title_slug": "path-sum",
         "question_id": 112,
-        "total_acs": 788,
-        "total_submitted": 1995
+        "total_acs": 793,
+        "total_submitted": 2016
       },
       "status": null
     },
@@ -11663,8 +11663,8 @@
         "question__title": "Minimum Depth of Binary Tree",
         "question__title_slug": "minimum-depth-of-binary-tree",
         "question_id": 111,
-        "total_acs": 646,
-        "total_submitted": 2042
+        "total_acs": 650,
+        "total_submitted": 2049
       },
       "status": null
     },
@@ -11707,8 +11707,8 @@
         "question__title": "Convert Sorted List to Binary Search Tree",
         "question__title_slug": "convert-sorted-list-to-binary-search-tree",
         "question_id": 109,
-        "total_acs": 192,
-        "total_submitted": 372
+        "total_acs": 193,
+        "total_submitted": 373
       },
       "status": null
     },
@@ -11729,8 +11729,8 @@
         "question__title": "Convert Sorted Array to Binary Search Tree",
         "question__title_slug": "convert-sorted-array-to-binary-search-tree",
         "question_id": 108,
-        "total_acs": 938,
-        "total_submitted": 1708
+        "total_acs": 943,
+        "total_submitted": 1714
       },
       "status": null
     },
@@ -11751,8 +11751,8 @@
         "question__title": "Binary Tree Level Order Traversal II",
         "question__title_slug": "binary-tree-level-order-traversal-ii",
         "question_id": 107,
-        "total_acs": 524,
-        "total_submitted": 1213
+        "total_acs": 530,
+        "total_submitted": 1222
       },
       "status": null
     },
@@ -11773,8 +11773,8 @@
         "question__title": "Construct Binary Tree from Inorder and Postorder Traversal",
         "question__title_slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
         "question_id": 106,
-        "total_acs": 389,
-        "total_submitted": 679
+        "total_acs": 395,
+        "total_submitted": 686
       },
       "status": null
     },
@@ -11795,8 +11795,8 @@
         "question__title": "Construct Binary Tree from Preorder and Inorder Traversal",
         "question__title_slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
         "question_id": 105,
-        "total_acs": 578,
-        "total_submitted": 1133
+        "total_acs": 579,
+        "total_submitted": 1134
       },
       "status": null
     },
@@ -11817,8 +11817,8 @@
         "question__title": "Maximum Depth of Binary Tree",
         "question__title_slug": "maximum-depth-of-binary-tree",
         "question_id": 104,
-        "total_acs": 2310,
-        "total_submitted": 3890
+        "total_acs": 2317,
+        "total_submitted": 3905
       },
       "status": null
     },
@@ -11839,8 +11839,8 @@
         "question__title": "Binary Tree Zigzag Level Order Traversal",
         "question__title_slug": "binary-tree-zigzag-level-order-traversal",
         "question_id": 103,
-        "total_acs": 347,
-        "total_submitted": 861
+        "total_acs": 348,
+        "total_submitted": 865
       },
       "status": null
     },
@@ -11861,8 +11861,8 @@
         "question__title": "Binary Tree Level Order Traversal",
         "question__title_slug": "binary-tree-level-order-traversal",
         "question_id": 102,
-        "total_acs": 1253,
-        "total_submitted": 2754
+        "total_acs": 1260,
+        "total_submitted": 2767
       },
       "status": null
     },
@@ -11883,8 +11883,8 @@
         "question__title": "Symmetric Tree",
         "question__title_slug": "symmetric-tree",
         "question_id": 101,
-        "total_acs": 1526,
-        "total_submitted": 3919
+        "total_acs": 1537,
+        "total_submitted": 3943
       },
       "status": null
     },
@@ -11905,8 +11905,8 @@
         "question__title": "Same Tree",
         "question__title_slug": "same-tree",
         "question_id": 100,
-        "total_acs": 978,
-        "total_submitted": 1975
+        "total_acs": 993,
+        "total_submitted": 2012
       },
       "status": null
     },
@@ -11927,8 +11927,8 @@
         "question__title": "Recover Binary Search Tree",
         "question__title_slug": "recover-binary-search-tree",
         "question_id": 99,
-        "total_acs": 114,
-        "total_submitted": 339
+        "total_acs": 115,
+        "total_submitted": 340
       },
       "status": null
     },
@@ -11949,8 +11949,8 @@
         "question__title": "Validate Binary Search Tree",
         "question__title_slug": "validate-binary-search-tree",
         "question_id": 98,
-        "total_acs": 1169,
-        "total_submitted": 5999
+        "total_acs": 1170,
+        "total_submitted": 6002
       },
       "status": null
     },
@@ -11971,8 +11971,8 @@
         "question__title": "Interleaving String",
         "question__title_slug": "interleaving-string",
         "question_id": 97,
-        "total_acs": 75,
-        "total_submitted": 336
+        "total_acs": 76,
+        "total_submitted": 337
       },
       "status": null
     },
@@ -11993,8 +11993,8 @@
         "question__title": "Unique Binary Search Trees",
         "question__title_slug": "unique-binary-search-trees",
         "question_id": 96,
-        "total_acs": 276,
-        "total_submitted": 658
+        "total_acs": 277,
+        "total_submitted": 661
       },
       "status": null
     },
@@ -12015,8 +12015,8 @@
         "question__title": "Unique Binary Search Trees II",
         "question__title_slug": "unique-binary-search-trees-ii",
         "question_id": 95,
-        "total_acs": 160,
-        "total_submitted": 474
+        "total_acs": 161,
+        "total_submitted": 482
       },
       "status": null
     },
@@ -12037,8 +12037,8 @@
         "question__title": "Binary Tree Inorder Traversal",
         "question__title_slug": "binary-tree-inorder-traversal",
         "question_id": 94,
-        "total_acs": 1452,
-        "total_submitted": 2401
+        "total_acs": 1459,
+        "total_submitted": 2418
       },
       "status": null
     },
@@ -12059,8 +12059,8 @@
         "question__title": "Restore IP Addresses",
         "question__title_slug": "restore-ip-addresses",
         "question_id": 93,
-        "total_acs": 134,
-        "total_submitted": 413
+        "total_acs": 135,
+        "total_submitted": 417
       },
       "status": null
     },
@@ -12081,8 +12081,8 @@
         "question__title": "Reverse Linked List II",
         "question__title_slug": "reverse-linked-list-ii",
         "question_id": 92,
-        "total_acs": 375,
-        "total_submitted": 1263
+        "total_acs": 378,
+        "total_submitted": 1267
       },
       "status": null
     },
@@ -12104,7 +12104,7 @@
         "question__title_slug": "decode-ways",
         "question_id": 91,
         "total_acs": 254,
-        "total_submitted": 1841
+        "total_submitted": 1843
       },
       "status": null
     },
@@ -12147,8 +12147,8 @@
         "question__title": "Gray Code",
         "question__title_slug": "gray-code",
         "question_id": 89,
-        "total_acs": 149,
-        "total_submitted": 298
+        "total_acs": 150,
+        "total_submitted": 300
       },
       "status": null
     },
@@ -12169,8 +12169,8 @@
         "question__title": "Merge Sorted Array",
         "question__title_slug": "merge-sorted-array",
         "question_id": 88,
-        "total_acs": 1728,
-        "total_submitted": 5675
+        "total_acs": 1738,
+        "total_submitted": 5715
       },
       "status": null
     },
@@ -12213,8 +12213,8 @@
         "question__title": "Partition List",
         "question__title_slug": "partition-list",
         "question_id": 86,
-        "total_acs": 263,
-        "total_submitted": 909
+        "total_acs": 265,
+        "total_submitted": 912
       },
       "status": null
     },
@@ -12257,8 +12257,8 @@
         "question__title": "Largest Rectangle in Histogram",
         "question__title_slug": "largest-rectangle-in-histogram",
         "question_id": 84,
-        "total_acs": 231,
-        "total_submitted": 754
+        "total_acs": 232,
+        "total_submitted": 760
       },
       "status": null
     },
@@ -12279,8 +12279,8 @@
         "question__title": "Remove Duplicates from Sorted List",
         "question__title_slug": "remove-duplicates-from-sorted-list",
         "question_id": 83,
-        "total_acs": 1051,
-        "total_submitted": 2667
+        "total_acs": 1057,
+        "total_submitted": 2681
       },
       "status": null
     },
@@ -12301,8 +12301,8 @@
         "question__title": "Remove Duplicates from Sorted List II",
         "question__title_slug": "remove-duplicates-from-sorted-list-ii",
         "question_id": 82,
-        "total_acs": 268,
-        "total_submitted": 990
+        "total_acs": 270,
+        "total_submitted": 992
       },
       "status": null
     },
@@ -12323,8 +12323,8 @@
         "question__title": "Search in Rotated Sorted Array II",
         "question__title_slug": "search-in-rotated-sorted-array-ii",
         "question_id": 81,
-        "total_acs": 204,
-        "total_submitted": 791
+        "total_acs": 205,
+        "total_submitted": 792
       },
       "status": null
     },
@@ -12345,8 +12345,8 @@
         "question__title": "Remove Duplicates from Sorted Array II",
         "question__title_slug": "remove-duplicates-from-sorted-array-ii",
         "question_id": 80,
-        "total_acs": 378,
-        "total_submitted": 936
+        "total_acs": 380,
+        "total_submitted": 950
       },
       "status": null
     },
@@ -12367,8 +12367,8 @@
         "question__title": "Word Search",
         "question__title_slug": "word-search",
         "question_id": 79,
-        "total_acs": 374,
-        "total_submitted": 1273
+        "total_acs": 376,
+        "total_submitted": 1279
       },
       "status": null
     },
@@ -12455,8 +12455,8 @@
         "question__title": "Sort Colors",
         "question__title_slug": "sort-colors",
         "question_id": 75,
-        "total_acs": 645,
-        "total_submitted": 1455
+        "total_acs": 646,
+        "total_submitted": 1456
       },
       "status": null
     },
@@ -12477,8 +12477,8 @@
         "question__title": "Search a 2D Matrix",
         "question__title_slug": "search-a-2d-matrix",
         "question_id": 74,
-        "total_acs": 311,
-        "total_submitted": 1068
+        "total_acs": 312,
+        "total_submitted": 1073
       },
       "status": null
     },
@@ -12499,8 +12499,8 @@
         "question__title": "Set Matrix Zeroes",
         "question__title_slug": "set-matrix-zeroes",
         "question_id": 73,
-        "total_acs": 507,
-        "total_submitted": 1148
+        "total_acs": 511,
+        "total_submitted": 1160
       },
       "status": null
     },
@@ -12521,8 +12521,8 @@
         "question__title": "Edit Distance",
         "question__title_slug": "edit-distance",
         "question_id": 72,
-        "total_acs": 248,
-        "total_submitted": 696
+        "total_acs": 249,
+        "total_submitted": 697
       },
       "status": null
     },
@@ -12565,8 +12565,8 @@
         "question__title": "Climbing Stairs",
         "question__title_slug": "climbing-stairs",
         "question_id": 70,
-        "total_acs": 2412,
-        "total_submitted": 6035
+        "total_acs": 2424,
+        "total_submitted": 6061
       },
       "status": null
     },
@@ -12587,8 +12587,8 @@
         "question__title": "Sqrt(x)",
         "question__title_slug": "sqrtx",
         "question_id": 69,
-        "total_acs": 1386,
-        "total_submitted": 4704
+        "total_acs": 1395,
+        "total_submitted": 4725
       },
       "status": null
     },
@@ -12631,8 +12631,8 @@
         "question__title": "Add Binary",
         "question__title_slug": "add-binary",
         "question_id": 67,
-        "total_acs": 1025,
-        "total_submitted": 2845
+        "total_acs": 1027,
+        "total_submitted": 2854
       },
       "status": null
     },
@@ -12653,8 +12653,8 @@
         "question__title": "Plus One",
         "question__title_slug": "plus-one",
         "question_id": 66,
-        "total_acs": 3449,
-        "total_submitted": 9822
+        "total_acs": 3463,
+        "total_submitted": 9864
       },
       "status": "ac"
     },
@@ -12697,8 +12697,8 @@
         "question__title": "Minimum Path Sum",
         "question__title_slug": "minimum-path-sum",
         "question_id": 64,
-        "total_acs": 659,
-        "total_submitted": 1190
+        "total_acs": 661,
+        "total_submitted": 1193
       },
       "status": null
     },
@@ -12720,7 +12720,7 @@
         "question__title_slug": "unique-paths-ii",
         "question_id": 63,
         "total_acs": 497,
-        "total_submitted": 1842
+        "total_submitted": 1844
       },
       "status": null
     },
@@ -12741,8 +12741,8 @@
         "question__title": "Unique Paths",
         "question__title_slug": "unique-paths",
         "question_id": 62,
-        "total_acs": 870,
-        "total_submitted": 1969
+        "total_acs": 875,
+        "total_submitted": 1988
       },
       "status": null
     },
@@ -12763,8 +12763,8 @@
         "question__title": "Rotate List",
         "question__title_slug": "rotate-list",
         "question_id": 61,
-        "total_acs": 364,
-        "total_submitted": 1446
+        "total_acs": 366,
+        "total_submitted": 1448
       },
       "status": null
     },
@@ -12807,8 +12807,8 @@
         "question__title": "Spiral Matrix II",
         "question__title_slug": "spiral-matrix-ii",
         "question_id": 59,
-        "total_acs": 210,
-        "total_submitted": 428
+        "total_acs": 211,
+        "total_submitted": 429
       },
       "status": null
     },
@@ -12829,8 +12829,8 @@
         "question__title": "Length of Last Word",
         "question__title_slug": "length-of-last-word",
         "question_id": 58,
-        "total_acs": 1134,
-        "total_submitted": 3982
+        "total_acs": 1140,
+        "total_submitted": 4001
       },
       "status": null
     },
@@ -12873,8 +12873,8 @@
         "question__title": "Merge Intervals",
         "question__title_slug": "merge-intervals",
         "question_id": 56,
-        "total_acs": 488,
-        "total_submitted": 1669
+        "total_acs": 500,
+        "total_submitted": 1683
       },
       "status": null
     },
@@ -12895,8 +12895,8 @@
         "question__title": "Jump Game",
         "question__title_slug": "jump-game",
         "question_id": 55,
-        "total_acs": 809,
-        "total_submitted": 2971
+        "total_acs": 811,
+        "total_submitted": 2977
       },
       "status": null
     },
@@ -12917,8 +12917,8 @@
         "question__title": "Spiral Matrix",
         "question__title_slug": "spiral-matrix",
         "question_id": 54,
-        "total_acs": 364,
-        "total_submitted": 1341
+        "total_acs": 365,
+        "total_submitted": 1343
       },
       "status": null
     },
@@ -12939,8 +12939,8 @@
         "question__title": "Maximum Subarray",
         "question__title_slug": "maximum-subarray",
         "question_id": 53,
-        "total_acs": 2785,
-        "total_submitted": 7871
+        "total_acs": 2798,
+        "total_submitted": 7894
       },
       "status": null
     },
@@ -13005,8 +13005,8 @@
         "question__title": "Pow(x, n)",
         "question__title_slug": "powx-n",
         "question_id": 50,
-        "total_acs": 800,
-        "total_submitted": 3498
+        "total_acs": 802,
+        "total_submitted": 3503
       },
       "status": null
     },
@@ -13028,7 +13028,7 @@
         "question__title_slug": "group-anagrams",
         "question_id": 49,
         "total_acs": 678,
-        "total_submitted": 1628
+        "total_submitted": 1631
       },
       "status": null
     },
@@ -13049,8 +13049,8 @@
         "question__title": "Rotate Image",
         "question__title_slug": "rotate-image",
         "question_id": 48,
-        "total_acs": 1711,
-        "total_submitted": 3209
+        "total_acs": 1719,
+        "total_submitted": 3222
       },
       "status": null
     },
@@ -13071,8 +13071,8 @@
         "question__title": "Permutations II",
         "question__title_slug": "permutations-ii",
         "question_id": 47,
-        "total_acs": 371,
-        "total_submitted": 858
+        "total_acs": 372,
+        "total_submitted": 859
       },
       "status": null
     },
@@ -13093,8 +13093,8 @@
         "question__title": "Permutations",
         "question__title_slug": "permutations",
         "question_id": 46,
-        "total_acs": 799,
-        "total_submitted": 1320
+        "total_acs": 802,
+        "total_submitted": 1323
       },
       "status": null
     },
@@ -13116,7 +13116,7 @@
         "question__title_slug": "jump-game-ii",
         "question_id": 45,
         "total_acs": 440,
-        "total_submitted": 1919
+        "total_submitted": 1927
       },
       "status": null
     },
@@ -13138,7 +13138,7 @@
         "question__title_slug": "wildcard-matching",
         "question_id": 44,
         "total_acs": 214,
-        "total_submitted": 1510
+        "total_submitted": 1511
       },
       "status": null
     },
@@ -13181,8 +13181,8 @@
         "question__title": "Trapping Rain Water",
         "question__title_slug": "trapping-rain-water",
         "question_id": 42,
-        "total_acs": 467,
-        "total_submitted": 1562
+        "total_acs": 468,
+        "total_submitted": 1563
       },
       "status": null
     },
@@ -13203,8 +13203,8 @@
         "question__title": "First Missing Positive",
         "question__title_slug": "first-missing-positive",
         "question_id": 41,
-        "total_acs": 562,
-        "total_submitted": 2217
+        "total_acs": 564,
+        "total_submitted": 2219
       },
       "status": null
     },
@@ -13226,7 +13226,7 @@
         "question__title_slug": "combination-sum-ii",
         "question_id": 40,
         "total_acs": 474,
-        "total_submitted": 1042
+        "total_submitted": 1043
       },
       "status": null
     },
@@ -13247,8 +13247,8 @@
         "question__title": "Combination Sum",
         "question__title_slug": "combination-sum",
         "question_id": 39,
-        "total_acs": 679,
-        "total_submitted": 1240
+        "total_acs": 683,
+        "total_submitted": 1244
       },
       "status": null
     },
@@ -13269,8 +13269,8 @@
         "question__title": "Count and Say",
         "question__title_slug": "count-and-say",
         "question_id": 38,
-        "total_acs": 1792,
-        "total_submitted": 3874
+        "total_acs": 1798,
+        "total_submitted": 3891
       },
       "status": null
     },
@@ -13291,8 +13291,8 @@
         "question__title": "Sudoku Solver",
         "question__title_slug": "sudoku-solver",
         "question_id": 37,
-        "total_acs": 205,
-        "total_submitted": 459
+        "total_acs": 209,
+        "total_submitted": 463
       },
       "status": null
     },
@@ -13313,8 +13313,8 @@
         "question__title": "Valid Sudoku",
         "question__title_slug": "valid-sudoku",
         "question_id": 36,
-        "total_acs": 1638,
-        "total_submitted": 3694
+        "total_acs": 1643,
+        "total_submitted": 3710
       },
       "status": null
     },
@@ -13335,8 +13335,8 @@
         "question__title": "Search Insert Position",
         "question__title_slug": "search-insert-position",
         "question_id": 35,
-        "total_acs": 2341,
-        "total_submitted": 5852
+        "total_acs": 2351,
+        "total_submitted": 5873
       },
       "status": null
     },
@@ -13357,8 +13357,8 @@
         "question__title": "Search for a Range",
         "question__title_slug": "search-for-a-range",
         "question_id": 34,
-        "total_acs": 711,
-        "total_submitted": 2308
+        "total_acs": 713,
+        "total_submitted": 2321
       },
       "status": null
     },
@@ -13379,8 +13379,8 @@
         "question__title": "Search in Rotated Sorted Array",
         "question__title_slug": "search-in-rotated-sorted-array",
         "question_id": 33,
-        "total_acs": 730,
-        "total_submitted": 2454
+        "total_acs": 734,
+        "total_submitted": 2460
       },
       "status": null
     },
@@ -13401,8 +13401,8 @@
         "question__title": "Longest Valid Parentheses",
         "question__title_slug": "longest-valid-parentheses",
         "question_id": 32,
-        "total_acs": 407,
-        "total_submitted": 2186
+        "total_acs": 409,
+        "total_submitted": 2191
       },
       "status": null
     },
@@ -13423,8 +13423,8 @@
         "question__title": "Next Permutation",
         "question__title_slug": "next-permutation",
         "question_id": 31,
-        "total_acs": 499,
-        "total_submitted": 1816
+        "total_acs": 508,
+        "total_submitted": 1830
       },
       "status": null
     },
@@ -13445,8 +13445,8 @@
         "question__title": "Substring with Concatenation of All Words",
         "question__title_slug": "substring-with-concatenation-of-all-words",
         "question_id": 30,
-        "total_acs": 230,
-        "total_submitted": 1272
+        "total_acs": 232,
+        "total_submitted": 1283
       },
       "status": null
     },
@@ -13467,8 +13467,8 @@
         "question__title": "Divide Two Integers",
         "question__title_slug": "divide-two-integers",
         "question_id": 29,
-        "total_acs": 483,
-        "total_submitted": 3673
+        "total_acs": 487,
+        "total_submitted": 3685
       },
       "status": null
     },
@@ -13489,8 +13489,8 @@
         "question__title": "Implement strStr()",
         "question__title_slug": "implement-strstr",
         "question_id": 28,
-        "total_acs": 2780,
-        "total_submitted": 8780
+        "total_acs": 2796,
+        "total_submitted": 8813
       },
       "status": null
     },
@@ -13511,8 +13511,8 @@
         "question__title": "Remove Element",
         "question__title_slug": "remove-element",
         "question_id": 27,
-        "total_acs": 2844,
-        "total_submitted": 6103
+        "total_acs": 2857,
+        "total_submitted": 6129
       },
       "status": null
     },
@@ -13533,8 +13533,8 @@
         "question__title": "Remove Duplicates from Sorted Array",
         "question__title_slug": "remove-duplicates-from-sorted-array",
         "question_id": 26,
-        "total_acs": 10728,
-        "total_submitted": 29565
+        "total_acs": 10770,
+        "total_submitted": 29667
       },
       "status": "ac"
     },
@@ -13555,8 +13555,8 @@
         "question__title": "Reverse Nodes in k-Group",
         "question__title_slug": "reverse-nodes-in-k-group",
         "question_id": 25,
-        "total_acs": 430,
-        "total_submitted": 1056
+        "total_acs": 431,
+        "total_submitted": 1069
       },
       "status": null
     },
@@ -13577,8 +13577,8 @@
         "question__title": "Swap Nodes in Pairs",
         "question__title_slug": "swap-nodes-in-pairs",
         "question_id": 24,
-        "total_acs": 724,
-        "total_submitted": 1696
+        "total_acs": 727,
+        "total_submitted": 1702
       },
       "status": null
     },
@@ -13599,8 +13599,8 @@
         "question__title": "Merge k Sorted Lists",
         "question__title_slug": "merge-k-sorted-lists",
         "question_id": 23,
-        "total_acs": 786,
-        "total_submitted": 2373
+        "total_acs": 789,
+        "total_submitted": 2377
       },
       "status": null
     },
@@ -13621,8 +13621,8 @@
         "question__title": "Generate Parentheses",
         "question__title_slug": "generate-parentheses",
         "question_id": 22,
-        "total_acs": 862,
-        "total_submitted": 1470
+        "total_acs": 866,
+        "total_submitted": 1479
       },
       "status": null
     },
@@ -13643,8 +13643,8 @@
         "question__title": "Merge Two Sorted Lists",
         "question__title_slug": "merge-two-sorted-lists",
         "question_id": 21,
-        "total_acs": 3302,
-        "total_submitted": 6991
+        "total_acs": 3314,
+        "total_submitted": 7022
       },
       "status": null
     },
@@ -13665,8 +13665,8 @@
         "question__title": "Valid Parentheses",
         "question__title_slug": "valid-parentheses",
         "question_id": 20,
-        "total_acs": 2882,
-        "total_submitted": 9542
+        "total_acs": 2889,
+        "total_submitted": 9566
       },
       "status": null
     },
@@ -13687,8 +13687,8 @@
         "question__title": "Remove Nth Node From End of List",
         "question__title_slug": "remove-nth-node-from-end-of-list",
         "question_id": 19,
-        "total_acs": 2340,
-        "total_submitted": 8369
+        "total_acs": 2352,
+        "total_submitted": 8404
       },
       "status": null
     },
@@ -13709,8 +13709,8 @@
         "question__title": "4Sum",
         "question__title_slug": "4sum",
         "question_id": 18,
-        "total_acs": 771,
-        "total_submitted": 2671
+        "total_acs": 774,
+        "total_submitted": 2687
       },
       "status": null
     },
@@ -13731,8 +13731,8 @@
         "question__title": "Letter Combinations of a Phone Number",
         "question__title_slug": "letter-combinations-of-a-phone-number",
         "question_id": 17,
-        "total_acs": 972,
-        "total_submitted": 2430
+        "total_acs": 974,
+        "total_submitted": 2439
       },
       "status": null
     },
@@ -13754,7 +13754,7 @@
         "question__title_slug": "3sum-closest",
         "question_id": 16,
         "total_acs": 1026,
-        "total_submitted": 3276
+        "total_submitted": 3280
       },
       "status": null
     },
@@ -13775,8 +13775,8 @@
         "question__title": "3Sum",
         "question__title_slug": "3sum",
         "question_id": 15,
-        "total_acs": 2245,
-        "total_submitted": 16550
+        "total_acs": 2253,
+        "total_submitted": 16590
       },
       "status": null
     },
@@ -13797,8 +13797,8 @@
         "question__title": "Longest Common Prefix",
         "question__title_slug": "longest-common-prefix",
         "question_id": 14,
-        "total_acs": 3434,
-        "total_submitted": 12557
+        "total_acs": 3455,
+        "total_submitted": 12632
       },
       "status": null
     },
@@ -13819,8 +13819,8 @@
         "question__title": "Roman to Integer",
         "question__title_slug": "roman-to-integer",
         "question_id": 13,
-        "total_acs": 2618,
-        "total_submitted": 4912
+        "total_acs": 2636,
+        "total_submitted": 4953
       },
       "status": null
     },
@@ -13841,8 +13841,8 @@
         "question__title": "Integer to Roman",
         "question__title_slug": "integer-to-roman",
         "question_id": 12,
-        "total_acs": 848,
-        "total_submitted": 1612
+        "total_acs": 850,
+        "total_submitted": 1616
       },
       "status": null
     },
@@ -13863,8 +13863,8 @@
         "question__title": "Container With Most Water",
         "question__title_slug": "container-with-most-water",
         "question_id": 11,
-        "total_acs": 1512,
-        "total_submitted": 5198
+        "total_acs": 1514,
+        "total_submitted": 5201
       },
       "status": null
     },
@@ -13885,8 +13885,8 @@
         "question__title": "Regular Expression Matching",
         "question__title_slug": "regular-expression-matching",
         "question_id": 10,
-        "total_acs": 719,
-        "total_submitted": 4262
+        "total_acs": 721,
+        "total_submitted": 4283
       },
       "status": null
     },
@@ -13907,8 +13907,8 @@
         "question__title": "Palindrome Number",
         "question__title_slug": "palindrome-number",
         "question_id": 9,
-        "total_acs": 4899,
-        "total_submitted": 10779
+        "total_acs": 4921,
+        "total_submitted": 10815
       },
       "status": null
     },
@@ -13929,8 +13929,8 @@
         "question__title": "String to Integer (atoi)",
         "question__title_slug": "string-to-integer-atoi",
         "question_id": 8,
-        "total_acs": 2405,
-        "total_submitted": 14489
+        "total_acs": 2415,
+        "total_submitted": 14573
       },
       "status": null
     },
@@ -13951,8 +13951,8 @@
         "question__title": "Reverse Integer",
         "question__title_slug": "reverse-integer",
         "question_id": 7,
-        "total_acs": 7787,
-        "total_submitted": 29752
+        "total_acs": 7818,
+        "total_submitted": 29842
       },
       "status": null
     },
@@ -13973,8 +13973,8 @@
         "question__title": "ZigZag Conversion",
         "question__title_slug": "zigzag-conversion",
         "question_id": 6,
-        "total_acs": 1577,
-        "total_submitted": 5303
+        "total_acs": 1585,
+        "total_submitted": 5317
       },
       "status": null
     },
@@ -13995,8 +13995,8 @@
         "question__title": "Longest Palindromic Substring",
         "question__title_slug": "longest-palindromic-substring",
         "question_id": 5,
-        "total_acs": 2947,
-        "total_submitted": 12678
+        "total_acs": 2962,
+        "total_submitted": 12733
       },
       "status": null
     },
@@ -14017,8 +14017,8 @@
         "question__title": "Median of Two Sorted Arrays",
         "question__title_slug": "median-of-two-sorted-arrays",
         "question_id": 4,
-        "total_acs": 3019,
-        "total_submitted": 10523
+        "total_acs": 3036,
+        "total_submitted": 10585
       },
       "status": null
     },
@@ -14039,8 +14039,8 @@
         "question__title": "Longest Substring Without Repeating Characters",
         "question__title_slug": "longest-substring-without-repeating-characters",
         "question_id": 3,
-        "total_acs": 5939,
-        "total_submitted": 26559
+        "total_acs": 5968,
+        "total_submitted": 26663
       },
       "status": null
     },
@@ -14061,8 +14061,8 @@
         "question__title": "Add Two Numbers",
         "question__title_slug": "add-two-numbers",
         "question_id": 2,
-        "total_acs": 7761,
-        "total_submitted": 27550
+        "total_acs": 7776,
+        "total_submitted": 27614
       },
       "status": null
     },
@@ -14083,10 +14083,10 @@
         "question__title": "Two Sum",
         "question__title_slug": "two-sum",
         "question_id": 1,
-        "total_acs": 24232,
-        "total_submitted": 58429
+        "total_acs": 24339,
+        "total_submitted": 58707
       },
-      "status": null
+      "status": "ac"
     }
   ],
   "user_name": "mingmingli"

@@ -1,9 +1,9 @@
 # LeetCode 刷题记录    ![](http://progressed.io/bar/0?title=completed)
-AC=6 Total=640 
+AC=8 Total=640 
 
 id  | title | difficulty |status
 -----  | ----- | ----- | -----
-1|Two Sum|Easy|:x:
+1|Two Sum|Easy|:white_check_mark:
 2|Add Two Numbers|Medium|:x:
 3|Longest Substring Without Repeating Characters|Medium|:x:
 4|Median of Two Sorted Arrays|Hard|:x:
@@ -250,7 +250,7 @@ id  | title | difficulty |status
 278|First Bad Version|Easy|:x:
 279|Perfect Squares|Medium|:x:
 282|Expression Add Operators|Hard|:x:
-283|Move Zeroes|Easy|:x:
+283|Move Zeroes|Easy|:white_check_mark:
 284|Peeking Iterator|Medium|:x:
 287|Find the Duplicate Number|Medium|:x:
 289|Game of Life|Medium|:x:
