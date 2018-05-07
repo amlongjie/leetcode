@@ -1,9 +1,8 @@
 package main
 
 /**
-	循环移位.时间复杂度k * O(N)
-	34个测试用例,过了33个.最后一个超时了.
-
+	循环移位.时间复杂度O(N^2)
+	空间O(1)
  */
 func rotateV0(nums []int, k int) {
 	if k > len(nums) {

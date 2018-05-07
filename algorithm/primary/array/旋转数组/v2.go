@@ -1,19 +1,27 @@
 package main
 
-/**
-	循环移位.时间复杂度k * O(N)
-	34个测试用例,过了33个.最后一个超时了.
+import "fmt"
 
+/**
+	开辟一个新数组.然后搞一下.
+	时间复杂度O(N).
+	空间复杂度O(N).
  */
 func rotateV2(nums []int, k int) {
 	k = k % len(nums)
-	a := nums
-	for i := 0; i < k; i++ {
-		nums = append([]int{nums[len(nums)-1]}, nums[:len(nums)-1]...)
+	if k == 0 {
+		return
 	}
-	copy(a, nums)
+	nLen := len(nums)
+	a := make([]int, nLen, nLen)
+	for i := range nums {
+		a[(i+k)%nLen] = nums[i]
+	}
+	for i := range a {
+		nums[i] = a[i]
+	}
 }
 
 func main() {
-
+	rotateV2([]int{1, 2, 3, 4, 5, 6, 7}, 3)
 }
